@@ -56,7 +56,7 @@ O repositório está organizado em módulos, seguindo a estrutura do exame de ce
 *   **Módulo 2: Desenvolvimento e Ingestão** - ⏳ Em Andamento
 *   PySpark e SQL (leitura/transformações básicas) - ✅ Concluído
 *   Autoloader - 💡 Conceitual
-*   **Módulo 3: Processamento de Dados & Transformações** - 🔜 Próximo
+*   **Módulo 3: Processamento de Dados & Transformações** - ✅ Concluído
 *   **Módulo 4: Produzindo Pipelines de Dados** - 🔜
 *   **Módulo 5: Governança e Qualidade de Dados** - 🔜
 
